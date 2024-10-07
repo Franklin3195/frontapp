@@ -25,7 +25,7 @@
     ]
   },
   "dependencies": {
-    "@auth0/auth0-react": "^2.2.3",
+    "@auth0/auth0-react": "^2.2.4",
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "v1",
     "@radix-ui/react-slot": "^1.0.2",
